@@ -16,3 +16,13 @@ class Size(Enum):
     MEDIUM = "6"        # 32px
     BIG = "8"           # 48px
 
+
+STYLESHEETS = [
+    "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+]
+
+BASE_STYLE = {
+    rx.button: {
+        "--cursor-button": "pointer"
+    }
+}

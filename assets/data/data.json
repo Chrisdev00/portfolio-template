@@ -1,0 +1,134 @@
+{
+    "avatar": "/favicon.ico",
+    "name": "Brais Moure",
+    "title": "Habilidad principal",
+    "location": "Localizacion",
+    "media": {
+        "email": "email@email.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+    },
+    "about": "Descripcion",
+    "technologies": [
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Tecnologia"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Tecnologia"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Tecnologia"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "box-select",
+            "title": "Titulo",
+            "subtitle": "Subtitulo",
+            "description": "Descripcion",
+            "date": "Años"
+        },
+        {
+            "icon": "box-select",
+            "title": "Titulo",
+            "subtitle": "Subtitulo",
+            "description": "Descripcion",
+            "date": "Años"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "box-select",
+            "title": "Titulo",
+            "subtitle": "Subtitulo",
+            "description": "Descripcion",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnologia"
+                },
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnologia"
+                }
+            ],
+            "image": "/favicon.ico",
+            "url": "https://google.com",
+            "github": "https://github.com"
+        },
+        {
+            "icon": "box-select",
+            "title": "Titulo",
+            "subtitle": "Subtitulo",
+            "description": "Descripcion",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnologia"
+                },
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnologia"
+                }
+            ],
+            "image": "/favicon.ico",
+            "url": "https://google.com",
+            "github": "https://github.com"
+        },
+        {
+            "icon": "box-select",
+            "title": "Titulo",
+            "subtitle": "Subtitulo",
+            "description": "Descripcion",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnologia"
+                },
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnologia"
+                }
+            ],
+            "image": "/favicon.ico",
+            "url": "https://google.com",
+            "github": "https://github.com"
+        }
+    ],
+    "training": [
+        {
+            "icon": "box-select",
+            "title": "Titulo",
+            "subtitle": "Subtitulo",
+            "description": "Descripcion",
+            "date": "Años",
+            "certificate": "https://google.com"
+        }
+
+    ],
+    "extras": [
+        {
+            "image": "/favicon.ico",
+            "title": "Titulo",            
+            "description": "Descripcion",
+            "url": ""
+        },
+        {
+            "image": "/favicon.ico",
+            "title": "Titulo",            
+            "description": "Descripcion",
+            "url": ""
+        },
+        {
+            "image": "/favicon.ico",
+            "title": "Titulo",            
+            "description": "Descripcion",
+            "url": ""
+        }
+
+    ]
+}
